@@ -1,0 +1,11 @@
+customer_id,recency_days,frequency,monetary,segment
+C001,2,5,6900,Loyal
+C002,16,4,1840,Loyal
+C003,1,4,2030,Loyal
+C004,18,3,2730,Loyal
+C005,8,3,3660,Loyal
+C006,34,2,950,Needs Attention
+C007,6,2,2750,Recent
+C008,28,1,1100,Recent
+C009,13,1,2600,Recent
+C010,3,1,620,Recent

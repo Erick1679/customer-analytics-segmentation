@@ -1,0 +1,9 @@
+metric,value
+reference_date,2026-04-30
+valid_transactions,26
+unique_customers,10
+total_revenue,25180.0
+average_order_value,968.46
+repeat_customers,7
+repeat_customer_rate_percent,70.0
+top_3_revenue_share_percent,52.86
